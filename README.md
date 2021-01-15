@@ -1,1 +1,1 @@
-# ctf-container-template
+# CTF Container Template
